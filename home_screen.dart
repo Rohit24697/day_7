@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
                     style: TextStyle(fontSize: 20, color: Colors.black),
                   )),
               Text(
-                'Hello! This is Aniket',
+                'Hello! Rohit Hegade is here',
                 style: TextStyle(
                   fontSize: 40,
                 ),
